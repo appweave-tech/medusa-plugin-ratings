@@ -119,3 +119,5 @@ export default (rootDirectory: string): Router | Router[] => {
 
    return router
 }
+
+export const CORS = false
